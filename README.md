@@ -1,2 +1,2 @@
-# misc-scripts
+# Misc
 Miscellaneous scripts and one-liners
